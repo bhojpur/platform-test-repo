@@ -1,0 +1,4 @@
+image: ap.gcr.io/bhojpur/dev/dev-environment:shashi-rai.7
+github:
+  prebuilds:
+    pullRequestsFromForks: true
